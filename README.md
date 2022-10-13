@@ -42,8 +42,12 @@ This is all of my Blender-3D projects which I have done in past. I started 3D mo
 # Bhaiyaji Gaming Motion Track
 <p float="right">
 <img src="./_renders/PUBG0001.png" width="260">
-<video src="./_renders/bhaiyaji motion track test.mp4" width="260">
-<video src="./_renders/bhaiyaji motion track full.mp4" width="260">
+<video width="260">
+    <source src="./_renders/bhaiyaji motion track test.mp4" type="video/mp4">
+</video>
+<video width="260">
+    <source src="./_renders/bhaiyaji motion track full.mp4" type="video/mp4">
+</video>
 </p>
 
 # Varanasi Bridge
@@ -52,13 +56,17 @@ This is all of my Blender-3D projects which I have done in past. I started 3D mo
 <img src="./_renders/br_02.png" width="260">
 <img src="./_renders/br_04.png" width="260">
 <img src="./_renders/br_13.png" width="260">
-<img src="./_renders/br_14.png" width="260">
+<img src="./_renders/br_14.jpg" width="260">
 <img src="./_renders/br_15.png" width="260">
 <img src="./_renders/br_19.png" width="260">
 <img src="./_renders/br_23.png" width="260">
 <img src="./_renders/br_28.png" width="260">
-<video src="./_renders/br1.mp4" width="260">
-<video src="./_renders/br_vid_2.mp4" width="260">
+<video width="260">
+    <source src="./_renders/br1.mp4" type="video/mp4">
+</video>
+<video width="260">
+    <source src="./_renders/br_vid_2.mp4" type="video/mp4">
+</video>
 </p>
 
 
@@ -75,7 +83,9 @@ This is all of my Blender-3D projects which I have done in past. I started 3D mo
 <p float="right">
 <img src="./_renders/face model2.png" width="260">
 <img src="./_renders/face model3.png" width="260">
-<video src="./_renders/face model anim.mp4" width="260">
+<video width="260">
+    <source src="./_renders/face model anim.mp4" type="video/mp4">
+</video>
 </p>
 
 # Low Poly Bike
@@ -141,7 +151,9 @@ This is all of my Blender-3D projects which I have done in past. I started 3D mo
 # Fluid Simulation
 <p float="right">
 <img src="./_renders/WWAWRQA.png" width="260">
-<video src="./_renders/water_animation.mp4" width="260">
+<video width="260">
+    <source src="./_renders/water_animation.mp4" type="video/mp4">
+</video>
 </p>
 
 # Tap Water Splash
